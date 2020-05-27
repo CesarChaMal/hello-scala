@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f43324ad-3f2f-47c0-afad-38861d9c12d0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules/hello-scala-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/hello-scala-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/hello-scala.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/hello-scala.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$07c59d07034456af1312$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$07c59d07034456af1312.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$07c59d07034456af1312.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3b99268e8dcd689042a9$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3b99268e8dcd689042a9.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3b99268e8dcd689042a9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5f6fb9d34c966397dd1e$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5f6fb9d34c966397dd1e.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5f6fb9d34c966397dd1e.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9c0187f2659fe85db52b$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9c0187f2659fe85db52b.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9c0187f2659fe85db52b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bf7d68bb0df24672d947$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bf7d68bb0df24672d947.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bf7d68bb0df24672d947.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dbaa25d455b82cb8c0b4$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dbaa25d455b82cb8c0b4.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dbaa25d455b82cb8c0b4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.12.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +56,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="aws" />
   </component>
   <component name="RunManager" selected="sbt Task.run">
     <configuration name="run" type="SbtRunConfiguration" factoryName="sbt Task" show_console_on_std_err="false" show_console_on_std_out="false">
@@ -147,6 +113,9 @@
       <workItem from="1577012117434" duration="329000" />
       <workItem from="1577051380279" duration="166000" />
       <workItem from="1589865317026" duration="1191000" />
+      <workItem from="1590519322706" duration="592000" />
+      <workItem from="1590526881499" duration="222000" />
+      <workItem from="1590530886921" duration="88000" />
     </task>
     <servers />
   </component>
@@ -154,17 +123,13 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="254" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577012332901">
+    <state x="580" y="190" key="FileChooserDialogImpl" timestamp="1590519831332">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="254" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577012332901" />
-    <state x="514" y="184" key="#sbt" timestamp="1577011141505">
+    <state x="580" y="190" key="FileChooserDialogImpl/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1590519831332" />
+    <state x="301" y="94" key="SettingsEditor" timestamp="1590519835837">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="514" y="184" key="#sbt/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577011141505" />
-    <state x="280" y="23" key="SettingsEditor" timestamp="1577011296194">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state x="280" y="23" key="SettingsEditor/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577011296194" />
+    <state x="301" y="94" key="SettingsEditor/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1590519835837" />
   </component>
 </project>
